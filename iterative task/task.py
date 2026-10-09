@@ -1,5 +1,5 @@
 # First N natural Numbers
-"""
+
 n = int(input("Enter the n:"))
 for i in range ( 1,n+1):
     print(i)
@@ -51,5 +51,5 @@ n = int(input("Enter the n:"))
 for i in range ( 1,n+1):
     if i%3==0 or i%5==0 or i%7==0:
         print(i)
-"""
+
 
